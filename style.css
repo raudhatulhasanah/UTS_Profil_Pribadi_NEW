@@ -1,0 +1,34 @@
+body {
+    font-family: times new roman , sans-serif;
+    margin: 20px;
+    background-color: #e06a6a;
+    color: rgb(65, 13, 13);
+}
+header {
+    background-color: #eb84af;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+main {
+    background-color: #e5b6ca;
+    padding: 20px;
+    border-radius: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 50%;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #eb84af;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #eb84af;
+}
